@@ -137,8 +137,8 @@ Der Projekt-Setup ist jetzt fertig.
 
 Um unbeabsichtigte Merge-Commits zu vermeiden, können Sie git so einstellen, dass diese bei `git pull` nicht automatisch erzeugt
 werden. Falls durch einen `git pull` ein "fast-forward" nicht möglich ist, wird stattdessen ein Fehler geworfen. Um die remote
-changes trotzdem lokal einzubinden, können Sie den Befehl `git pull --rebase` ausführen. Eine gute Erklärung zu diesem Befehl finden
-Sie [hier](https://www.atlassian.com/git/tutorials/syncing/git-pull).
+changes trotzdem lokal einzubinden, können Sie den Befehl `git pull --rebase` ausführen. Eine gute Erklärung zu diesem Befehl
+finden Sie [hier](https://www.atlassian.com/git/tutorials/syncing/git-pull).
 
 ```shell
 git config --global pull.ff only
@@ -174,12 +174,13 @@ Falls sich die Vorlage aktualisiert, können Sie so die Änderungen mergen:
 # Das war's
 
 Dieser Guide soll Ihnen einen ersten Überblick geben, wie Sie das Projekt einrichten und erste Schritte mit Git machen können.
-Allerdings kann er keine umfassende Einführung in die Arbeit und Funktionsweise von Git ersetzen. Hierfür verweisen wir Sie auf die
-unten angegebenen Ressourcen.
+Allerdings kann er keine umfassende Einführung in die Arbeit und Funktionsweise von Git ersetzen. Hierfür verweisen wir Sie auf
+die unten angegebenen Ressourcen.
 
 Falls Sie noch Fragen haben, können Sie diese im Forum oder im #git-help Kanal auf dem Discord-Server stellen.
 
 Useful links:
+
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Atlassian Git Guide](https://www.atlassian.com/git/tutorials)
 - [Git Scm Docs](https://git-scm.com/docs)
