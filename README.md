@@ -39,7 +39,7 @@ Um eine git repository runterzuladen, muss man sie "clonen". Es gibt zwei Mögli
 Falls Sie keine SSH-key haben, können Sie so eine erstellen:
 
 ```shell
-# ssh-keygen -t rsa -b 4096
+$ ssh-keygen -t rsa -b 4096
 ```
 
 Erklärung vom Befehl:
