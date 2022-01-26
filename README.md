@@ -91,6 +91,8 @@ git remote rename origin upstream
 
 ## Private Repository erstellen
 
+*Wichtig: Keine fork von der Vorlage erstellen. Forks von Public Repositories können nicht Private gemacht werden.*
+
 Der nächste Schritt ist eine Private Repository zu erstellen, wo Ihre Gruppen-Daten sicher online gespeichert werden.
 
 Als erstes erstellt ein Gruppenmitglied eine leere Private Repository auf GitHub. Das
