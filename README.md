@@ -41,6 +41,9 @@ Falls Sie keine SSH-Key haben, können Sie folgendermaßen eine erstellen:
 ssh-keygen -t rsa -b 4096
 ```
 
+*Tipp: Falls sie auf Windows sind, und der Befehl nicht geht, können Sie OpenSSH
+mit [diesem Guide](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) installieren.*
+
 Erklärung vom Befehl:
 
 - `-t rsa` = mit type rsa
