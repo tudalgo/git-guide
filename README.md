@@ -1,6 +1,6 @@
 # FOP Git Quick Guide
 
-In diesem Guide werden CLI (command-line-interface)-Befehle so ausgedruckt:
+In diesem Guide werden CLI (command-line-interface)-Befehle so ausgedrückt:
 
 ```shell
 befehl
@@ -29,13 +29,13 @@ Sie [hier](https://git-scm.com/download).
 
 ## Git repository clonen
 
-Um eine git-Repository herunterzuladen, muss man sie "clonen". Es gibt zwei Möglichkeiten, das zu machen.
+Um ein git-Repository herunterzuladen, muss man es "clonen". Es gibt zwei Möglichkeiten, das zu machen.
 
 ### Clone per SSH (empfohlen)
 
 #### 1. SSH-Key Erstellen
 
-Falls Sie keine SSH-Key haben, können Sie folgendermaßen eine erstellen:
+Falls Sie keinen SSH-Key haben, können Sie folgendermaßen einen erstellen:
 
 ```shell
 ssh-keygen -t rsa -b 4096
