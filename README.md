@@ -119,13 +119,13 @@ GitHub-Benutzernamen.
 SSH:
 
 ```shell
-git remote add origin git@github.com:<GitHub username>/FOP-2022-Projekt-Root.git
+git remote add origin git@github.com:<GitHub username>/FOP-2022-Projekt-Student.git
 ```
 
 HTTPS:
 
 ```shell
-git remote add origin https://github.com/<GitHub username>/FOP-2022-Projekt-Root.git
+git remote add origin https://github.com/<GitHub username>/FOP-2022-Projekt-Student.git
 ```
 
 ## Push!
