@@ -12,7 +12,7 @@ Um einen Befehl auszuführen, geben Sie diesen in Ihr Terminal ein und drücken 
 
 Falls Sie noch nie mit Git gearbeitet haben, empfehlen wir Ihnen, sich zuerst mit den Grundlagen vertraut zu machen.
 Hierfür gibt es die Folien und Übungen von den [Git-Days](https://www.d120.de/de/studierende/git-days/), die am 01.02.2024 und 02.02.2024 stattgefunden haben.
-Diese finden sie hier:
+Diese finden sie hier: (Log in as guest)
 - Day 1
   - [Folien](https://ci.sourcegrade.org/repository/download/git_workshop_git_days_day_1/277:id/git-days-day-1-RC30.pdf) ([Darkmode](https://ci.sourcegrade.org/repository/download/git_workshop_git_days_day_1/277:id/git-days-day-1-RC30-darkmode.pdf))
   - [Übung](https://ci.sourcegrade.org/repository/download/git_workshop_git_days_exercise_1/279:id/git-days-exercise-1-RC10.pdf) ([Darkmode](https://ci.sourcegrade.org/repository/download/git_workshop_git_days_exercise_1/279:id/git-days-exercise-1-RC10-darkmode.pdf))
