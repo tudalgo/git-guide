@@ -65,7 +65,7 @@ kopieren Sie den inhalt der Datei `~/.ssh/id_ed25519.pub` (wichtig, die mit .pub
 Nun können Sie die Vorlage clonen. Für das Projekt sieht es zum Beispiel so aus:
 
 ```shell
-git clone git@github.com:FOP-2022/FOP-2022-Projekt-Student.git
+git clone git@github.com:FOP-2324/FOP-2324-Projekt-Student.git
 ```
 
 Bei der Ausführung wird ein Ordner namens `FOP-2022-Projekt-Student` erstellt.
@@ -76,7 +76,7 @@ Es ist auch möglich die Vorlage per HTTPS zu clonen. Wir empfehlen Ihnen, statt
 verwenden. Dies erleichtert Ihnen die Authentifizierung bei der Verwendung Ihrer eigenen Repositories.
 
 ```shell
-git clone https://github.com/FOP-2022/FOP-2022-Projekt-Student.git
+git clone https://github.com/FOP-2324/FOP-2324-Projekt-Student.git
 ```
 
 ## Upstream remote einstellen
@@ -103,7 +103,7 @@ Als erstes erstellt ein Gruppenmitglied eine leere Private Repository auf GitHub
 geht [hier](https://github.com/new).
 
 ```
-1. Name: FOP-2022-Projekt-Student
+1. Name: FOP-2324-Projekt-Student
 2. Private
 3. Create repository
 ```
@@ -118,13 +118,13 @@ GitHub-Benutzernamen.
 SSH:
 
 ```shell
-git remote add origin git@github.com:<GitHub username>/FOP-2022-Projekt-Student.git
+git remote add origin git@github.com:<GitHub username>/FOP-2324-Projekt-Student.git
 ```
 
 HTTPS:
 
 ```shell
-git remote add origin https://github.com/<GitHub username>/FOP-2022-Projekt-Student.git
+git remote add origin https://github.com/<GitHub username>/FOP-2324-Projekt-Student.git
 ```
 
 ## Push!
