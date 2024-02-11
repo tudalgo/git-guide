@@ -8,6 +8,18 @@ befehl
 
 Um einen Befehl auszuführen, geben Sie diesen in Ihr Terminal ein und drücken Sie die Enter-Taste.
 
+## Git Lernen
+
+Falls Sie noch nie mit Git gearbeitet haben, empfehlen wir Ihnen, sich zuerst mit den Grundlagen vertraut zu machen.
+Hierfür gibt es die Folien und Übungen von den [Git-Days](https://www.d120.de/de/studierende/git-days/), die am 01.02.2024 und 02.02.2024 stattgefunden haben.
+Diese finden sie hier:
+- Day 1
+  - [Folien](https://ci.sourcegrade.org/repository/download/git_workshop_git_days_day_1/277:id/git-days-day-1-RC30.pdf) ([Darkmode](https://ci.sourcegrade.org/repository/download/git_workshop_git_days_day_1/277:id/git-days-day-1-RC30-darkmode.pdf))
+  - [Übung](https://ci.sourcegrade.org/repository/download/git_workshop_git_days_exercise_1/279:id/git-days-exercise-1-RC10.pdf) ([Darkmode](https://ci.sourcegrade.org/repository/download/git_workshop_git_days_exercise_1/279:id/git-days-exercise-1-RC10-darkmode.pdf))
+- Day 2
+  - [Folien](https://ci.sourcegrade.org/repository/download/git_workshop_git_days_day_2/278:id/git-days-day-2-RC6.pdf) ([Darkmode](https://ci.sourcegrade.org/repository/download/git_workshop_git_days_day_2/278:id/git-days-day-2-RC6-darkmode.pdf))
+  - [Übung](https://ci.sourcegrade.org/repository/download/git_workshop_git_days_exercise_2/275:id/git-days-exercise-2-RC2.pdf) ([Darkmode](https://ci.sourcegrade.org/repository/download/git_workshop_git_days_exercise_2/275:id/git-days-exercise-2-RC2-darkmode.pdf))
+
 ## Voraussetzung: Git installieren
 
 Schauen Sie zunächst, ob Sie schon git installiert haben, indem Sie in einem Terminal den folgenden Befehl ausführen:
