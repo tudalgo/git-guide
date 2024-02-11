@@ -101,7 +101,7 @@ git remote rename origin upstream
 Der nächste Schritt ist eine Private Repository zu erstellen, wo Ihre Gruppen-Daten sicher online gespeichert werden.
 
 Als erstes erstellt ein Gruppenmitglied eine leere Private Repository auf GitHub. Das
-geht [hier](https://github.com/alexstaeding?tab=repositories).
+geht [hier](https://github.com/new).
 
 ```
 1. Name: FOP-2022-Projekt-Student
