@@ -18,10 +18,10 @@ git --version
 
 Falls Sie git bereits installiert haben, kommt ungefähr so eine Nachricht:
 
-*Die letzte Version ist 2.35.0. Es kann aber sein, dass Sie eine ältere Version haben*
+*Die letzte Version ist 2.43.1. Es kann aber sein, dass Sie eine ältere Version haben*
 
 ```shell
-git version 2.35.0
+git version 2.43.1
 ```
 
 Wenn Sie stattdessen eine Fehlernachricht bekommen, sollten Sie git installieren. Die Download-Seite finden
@@ -38,7 +38,7 @@ Um ein git-Repository herunterzuladen, muss man es "clonen". Es gibt zwei Mögli
 Falls Sie keinen SSH-Key haben, können Sie folgendermaßen einen erstellen:
 
 ```shell
-ssh-keygen -t rsa -b 4096
+ssh-keygen -t ed25519
 ```
 
 *Tipp: Falls sie auf Windows sind, und der Befehl nicht geht, können Sie OpenSSH
@@ -46,20 +46,19 @@ mit [diesem Guide](https://docs.microsoft.com/en-us/windows-server/administratio
 
 Erklärung vom Befehl:
 
-- `-t rsa` = mit type rsa
-- `-b 4096` = mit 4096 bits
+- `-t ed25519` = mit type [ed25519](https://en.wikipedia.org/wiki/EdDSA)
 
 Im Ordner `~/.ssh/` sollten es jetzt zwei Dateien geben:
 
 *`~` bedeutet Home-Verzeichnis*
 
-1. `id_rsa` - private-key (nicht teilen!!)
-2. `id_rsa.pub` - public-key (kann man teilen)
+1. `id_ed25519` - private-key (nicht teilen!!)
+2. `id_ed25519.pub` - public-key (kann man teilen)
 
 #### 2. Public-Key auf GitHub hochladen
 
 Es ist [hier](https://github.com/settings/keys) möglich, Ihre SSH-Key hochzuladen. Klicken Sie erst auf "New SSH key", und
-kopieren Sie den inhalt der Datei `~/.ssh/id_rsa.pub` (wichtig, die mit .pub) auf der Seite.
+kopieren Sie den inhalt der Datei `~/.ssh/id_ed25519.pub` (wichtig, die mit .pub) auf der Seite.
 
 #### 3. Clone
 
